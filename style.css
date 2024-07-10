@@ -1,0 +1,16 @@
+h1{
+    background-color:#fb8c4f;
+}
+button{
+    color: black;
+    background-color:#16a6d7;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+span{
+    background-color: #fdaa42;
+}
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/09/13/19/31/texture-1668079_1280.jpg");
+}
